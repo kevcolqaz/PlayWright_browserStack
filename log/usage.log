@@ -1,0 +1,12 @@
+2026-05-10 18:04:55 - [32minfo[39m: Reading configs from D:\software\Playwright_BrowserStack\browserstack.yml
+2026-05-10 18:04:55 - [32minfo[39m: Log Directory has been set to D:\software\Playwright_BrowserStack\log
+2026-05-10 18:04:55 - [32minfo[39m: Running SDK with args C:\Program Files\nodejs\node.exe D:\software\Playwright_BrowserStack\node_modules\browserstack-node-sdk\src\bin\runner.js playwright test
+2026-05-10 18:04:55 - [32minfo[39m: SDK run started with id: 0663ab11-69d3-46b0-91c3-dd8df2b152aa
+2026-05-10 18:04:56 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2026-05-10 18:04:57 - [31merror[39m: Error: LocalError: Couldn't find binary file
+    at BrowserStackSetup.setupBrowserstackLocal (D:\software\Playwright_BrowserStack\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:13146)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async BrowserStackSetup.initialize (D:\software\Playwright_BrowserStack\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:10455)
+    at async D:\software\Playwright_BrowserStack\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:8354
+2026-05-10 18:04:58 - [32minfo[39m: [BrowserstackCLI] stop: CLI is not running, skipping stop
+2026-05-10 18:04:58 - [32minfo[39m: key-metrics.json file not found, skipping processing for event for cli.
