@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 
-test.describe.parallel('Parallel test case @smoke', () => 
+test.describe.parallel('Parallel test case', () => 
 {
 test('Iframes @frame',async({page})=>
 {

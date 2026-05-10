@@ -1,34 +1,33 @@
 userName: kevinedwards_Fo5HI7
 accessKey: HxDtsMZwsRNj37zWRrve
-
 framework: playwright
-
 platforms:
   - os: Windows
     osVersion: 11
     browserName: chrome
     browserVersion: latest
-
   - os: OS X
     osVersion: Ventura
     browserName: playwright-webkit
     browserVersion: latest
-
   - os: Windows
     osVersion: 10
-    browserName: playwright-firefox
+    browserName: firefox
     browserVersion: latest
-
 browserstackLocal: false
-
 buildName: playwright-build
 projectName: Playwright Automation
-buildIdentifier: '#${BUILD_NUMBER}'
-
+buildIdentifier: '#7'
 parallelsPerPlatform: 3
-
 debug: true
 networkLogs: true
 consoleLogs: info
-
 testObservability: true
+testContextOptions:
+  skipSessionStatus: false
+  skipSessionName: false
+logDir: D:\software\Playwright_BrowserStack\log
+browserStackLocalOptions:
+  skipBinaryInitialisation: false
+proxySettings: {}
+accessibility: false

@@ -1,0 +1,90 @@
+[
+    {
+        "name": "sdk:automate:hub-management",
+        "entryType": "measure",
+        "startTime": 1778418852001.2896,
+        "duration": 1382.760899990797,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:testhub",
+        "entryType": "measure",
+        "startTime": 1778418851999.5708,
+        "duration": 1627.7950000166893,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:percy",
+        "entryType": "measure",
+        "startTime": 1778418854200.9375,
+        "duration": 0.06800001859664917,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:automate:local",
+        "entryType": "measure",
+        "startTime": 1778418854201.0474,
+        "duration": 0.2084999978542328,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:automate:hub-management",
+        "entryType": "measure",
+        "startTime": 1778421069247.7053,
+        "duration": 469.27840000391006,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:testhub",
+        "entryType": "measure",
+        "startTime": 1778421069246.042,
+        "duration": 820.7487999796867,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:percy",
+        "entryType": "measure",
+        "startTime": 1778421070478.3,
+        "duration": 0.03209999203681946,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    },
+    {
+        "name": "sdk:automate:local",
+        "entryType": "measure",
+        "startTime": 1778421070478.354,
+        "duration": 0.11860001087188721,
+        "detail": null,
+        "success": true,
+        "failure": null,
+        "worker": "unknown",
+        "platform": 0
+    }
+]
